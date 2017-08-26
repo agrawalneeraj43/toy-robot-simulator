@@ -5,5 +5,5 @@ package au.com.rea.model;
  *
  */
 public class TableTop {
-	
+  public static final int LENGTH = 5;
 }
